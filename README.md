@@ -1,2 +1,1 @@
-# AUR scripts that I maintain
-
+AUR PKGBUILDS
